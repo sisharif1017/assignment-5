@@ -20,7 +20,7 @@ console.log(allButton);
             seatLeft--;
             seatBook++;
             if(seatBook >= 5){
-                alert("You don't buy any more ticket.Thank You Sir!")
+                alert("You don't buy any more ticket.")
               return;
             }  
            
